@@ -18,7 +18,7 @@ A função original "getUserMedia" é salva em "navigator.mediaDevices.originalG
 
 ![image](https://github.com/user-attachments/assets/50d5cb30-04b6-4dfa-b09d-f3bd3f0dc834)
 
-Benefícios do Script
+# BENEFICIOS
 
 * Privacidade: Impede que sites acessem o microfone do usuário sem permissão explícita, aumentando a privacidade.
 
@@ -27,3 +27,5 @@ Benefícios do Script
 * Controle: Dá ao usuário mais controle sobre quais sites podem acessar seu microfone.
 
 * Flexibilidade: Permite exceções, como no caso de discord.com, onde o acesso ao microfone ainda é permitido.
+
+Este script é útil para usuários preocupados com a privacidade e segurança de seus dispositivos, garantindo que apenas sites confiáveis possam acessar o microfone.
